@@ -3,14 +3,15 @@ Twitter Bot that tweets dev jokes and retweets with paraphrased quotes
 
 <b>Dependencies</b>
 - [Python3](https://www.python.org/downloads/)
-- [python-dotenv](https://pypi.org/project/python-dotenv/)
-- [tweepy](https://www.tweepy.org/)
-- [requests](https://pypi.org/project/requests/)
-- [transformers](https://pypi.org/project/transformers/)
-- [sentencepiece](https://pypi.org/project/sentencepiece/)
-- [sacremoses](https://pypi.org/project/sacremoses/)
-- [torch](https://pypi.org/project/torch/)
-- [protobuf](https://pypi.org/project/protobuf/)
+- [python-dotenv==0.20.0](https://pypi.org/project/python-dotenv/)
+- [tweepy==4.10.0](https://www.tweepy.org/)
+- [requests==2.28.1](https://pypi.org/project/requests/)
+- [transformers==4.20.1](https://pypi.org/project/transformers/)
+- [tensorflow==2.9.1](https://pypi.org/project/tensorflow/)
+- [sentencepiece==0.1.96](https://pypi.org/project/sentencepiece/)
+- [sacremoses==0.0.53](https://pypi.org/project/sacremoses/)
+- [torch==1.12.0](https://pypi.org/project/torch/)
+- [protobuf==3.19.4](https://pypi.org/project/protobuf/)
 
 ## To run the code
 - Open Command Prompt
